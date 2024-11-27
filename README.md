@@ -6,3 +6,23 @@ Repo pro MarkDown
 ## Podnadpis
 
 ### Dalsi uroven
+
+Dnes je pekny den  
+asda asda  
+
+__hkhkhk__
+
+**ljljlj**
+
+> jojojoj  
+> hkkkkjh  
+> lkjlkjlklj  
+> jlkjlkjlkj  
+
+Nakup seznam:  
+- prvni
+- druhy
+
+1. sasd
+2. asdas
+3. asdasdas
